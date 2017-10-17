@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(int argc, char **argv) {
-	printf("hello, world!\n");
+	printf("hello, docker!\n");
 	return EXIT_SUCCESS;
 }
 
